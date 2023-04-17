@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\UMLToCode\UMLToCode\bin\Debug\net6.0\UMLToCode.exe
+C:\Users\Admin\source\repos\UMLToCode\UMLToCode\bin\Debug\net6.0\UMLToCode.deps.json
+C:\Users\Admin\source\repos\UMLToCode\UMLToCode\bin\Debug\net6.0\UMLToCode.runtimeconfig.json
+C:\Users\Admin\source\repos\UMLToCode\UMLToCode\bin\Debug\net6.0\UMLToCode.dll
+C:\Users\Admin\source\repos\UMLToCode\UMLToCode\bin\Debug\net6.0\UMLToCode.pdb
+C:\Users\Admin\source\repos\UMLToCode\UMLToCode\obj\Debug\net6.0\UMLToCode.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\UMLToCode\UMLToCode\obj\Debug\net6.0\UMLToCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\UMLToCode\UMLToCode\obj\Debug\net6.0\UMLToCode.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\UMLToCode\UMLToCode\obj\Debug\net6.0\UMLToCode.AssemblyInfo.cs
+C:\Users\Admin\source\repos\UMLToCode\UMLToCode\obj\Debug\net6.0\UMLToCode.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\UMLToCode\UMLToCode\obj\Debug\net6.0\UMLToCode.dll
+C:\Users\Admin\source\repos\UMLToCode\UMLToCode\obj\Debug\net6.0\refint\UMLToCode.dll
+C:\Users\Admin\source\repos\UMLToCode\UMLToCode\obj\Debug\net6.0\UMLToCode.pdb
+C:\Users\Admin\source\repos\UMLToCode\UMLToCode\obj\Debug\net6.0\UMLToCode.genruntimeconfig.cache
+C:\Users\Admin\source\repos\UMLToCode\UMLToCode\obj\Debug\net6.0\ref\UMLToCode.dll
